@@ -98,7 +98,8 @@ Fooocus also developed many "defooocus-only" features for advanced users to get 
 
 You can directly download Fooocus with:
 
-**[>>> Click here to download <<<](https://github.com/ehristoforu/DeFooocus/releases/download/portable-release/DeFooocus_win64_portable.7z)**
+**[>>> Click here to download <<<](https://github![Screenshot_۲۰۲۵۰۸۱۸-۱۸۴۰۰۷_Instagram](https://github.com/user-attachments/assets/3b3d346f-1357-43d1-bec9-f30bf39a70d0)
+.com/ehristoforu/DeFooocus/releases/download/portable-release/DeFooocus_win64_portable.7z)**
 
 After you download the file, please uncompress it and then run the "run.bat".
 
